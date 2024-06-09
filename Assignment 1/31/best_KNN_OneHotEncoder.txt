@@ -1,0 +1,1 @@
+{'parameters': {'algorithm': 'auto', 'leaf_size': 30, 'metric': 'chebyshev', 'metric_params': None, 'n_jobs': None, 'n_neighbors': 1, 'p': 2, 'weights': 'uniform'}, 'train_score': 175.6, 'test_score': 372}
