@@ -1,1 +1,0 @@
-{'parameters': {'algorithm': 'auto', 'leaf_size': 30, 'metric': 'euclidean', 'metric_params': None, 'n_jobs': None, 'n_neighbors': 1, 'p': 2, 'weights': 'uniform'}, 'train_score': 148.0, 'test_score': 281}

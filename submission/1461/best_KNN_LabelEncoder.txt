@@ -1,1 +1,0 @@
-{'parameters': {'algorithm': 'auto', 'leaf_size': 30, 'metric': 'manhattan', 'metric_params': None, 'n_jobs': None, 'n_neighbors': 1, 'p': 2, 'weights': 'distance'}, 'train_score': 0.40794034620505987, 'test_score': 0.3990885416666667}
